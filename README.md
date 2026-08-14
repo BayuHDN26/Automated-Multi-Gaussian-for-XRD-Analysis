@@ -88,7 +88,7 @@ If you use this algorithm or code in your research, please cite our paper:
 *   **Junianto Sesa** (Universitas Papua)
 *   **Bayu Harnadi Nasrul** (Universitas Hasanuddin)
 *   **Andi Tessiwoja Tenri Ola** (Universitas Lambung Mangkurat)
-*   **Pryandi M. Tabaika** (Universitas Airlangga)
+*   **Pryandi M. Tabaika** (Universitas Sebelas September)
 *   **Nurul Fajri Ramadhani Tang** (Universitas Papua)
 
 ## 📜 License
